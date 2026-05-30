@@ -63,7 +63,7 @@ export const personalInfo = {
     { value: '10+', numericValue: 10, suffix: '+', label: 'AWS Labs', sublabel: 'Deployed' },
     { value: '3.89', numericValue: 3.89, decimals: 2, label: 'GPA/4.0', sublabel: 'Drexel' },
     { value: '3', numericValue: 3, label: 'Pipelines', sublabel: 'Automated' },
-    { value: 'Dec', label: '2026', sublabel: 'OPT Valid' },
+    // { value: 'Dec', label: '2026', sublabel: 'OPT Valid' },
   ] satisfies Stat[],
   ctas: {
     work: 'View My Work',
