@@ -56,7 +56,7 @@ export const personalInfo = {
   subtitle: 'M.S. Cybersecurity | Drexel University | GPA 3.89 / 4.0',
   roles: ['Cloud Engineer', 'DevSecOps Engineer', 'Python Developer', 'Cloud Security Analyst'],
   tagline:
-    'I deploy, configure, and secure AWS infrastructure - not just study it. 10+ end-to-end AWS environments. 3 automated pipelines. 1 team-wide library adoption. Authorized to work full-time in the U.S. under F-1 OPT through December 2026.',
+    'I deploy, configure, and secure AWS infrastructure - not just study it. 10+ end-to-end AWS environments. 3 automated pipelines. 1 team-wide library adoption. Authorized to work full-time in the U.S. under F-1 OPT.',
   resumeUrl: withBase('Thara_Sivanandam_Resume.pdf'),
   profileIllustration: withBase('assets/thara-cloud-security.webp'),
   stats: [
@@ -82,7 +82,7 @@ export const about = {
   paragraphs: [
     'As an M.S. Cybersecurity graduate from Drexel University (GPA 3.89), I bring a rare combination: the security mindset of a forensics researcher and the deployment fluency of a cloud engineer. I have independently provisioned 10+ complete AWS environments from scratch - not in a guided tutorial, but in timed lab sessions where every misconfigured IAM role or VPC routing error was mine to debug and fix.',
     'During my internship at Global Techno Solutions, I worked on a remote engineering team of 8 as an individual contributor. I did not just write scripts - I identified three pipelines consuming significant engineer time, automated all three, and built a logging library that the team adopted into their shared codebase. That is the kind of contribution I aim to make on day one.',
-    'I am currently in Philadelphia, PA, authorized to work full-time in the United States under F-1 OPT through December 2026. I am actively seeking cloud engineering, DevSecOps, infrastructure operations, or cloud security roles.',
+    'I am currently in Philadelphia, PA, authorized to work full-time in the United States under F-1 OPT. I am actively seeking cloud engineering, DevSecOps, infrastructure operations, or cloud security roles.',
   ],
   quickFacts: [
     { label: 'Location', value: 'Philadelphia, PA' },
@@ -241,7 +241,7 @@ export const certifications = [
 export const contact = {
   headline: "Let's Talk",
   subheadline:
-    'I am actively seeking full-time roles in cloud engineering, DevSecOps, infrastructure operations, and cloud security in the United States. I am available to start immediately and authorized under F-1 OPT through December 2026. If my background aligns with what your team needs, I would love to connect.',
+    'I am actively seeking full-time roles in cloud engineering, DevSecOps, infrastructure operations, and cloud security in the United States. I am available to start immediately and authorized under F-1 OPT. If my background aligns with what your team needs, I would love to connect.',
   subjects: [
     'Job Opportunity - Cloud Engineering',
     'Job Opportunity - DevSecOps',
