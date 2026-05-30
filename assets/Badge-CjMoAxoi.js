@@ -1,1 +1,0 @@
-import{J as a}from"./index-dVG8Ww87.js";const l={navy:"bg-navy text-white",slate:"bg-slate text-white",teal:"bg-teal text-white",light:"bg-light text-navy border border-border"},o=({tone:t="light",className:e="",children:s})=>a.jsx("span",{className:`inline-flex rounded-full px-3 py-1 text-xs font-semibold ${l[t]} ${e}`,children:s});export{o as B};
